@@ -1,5 +1,5 @@
 {
-  "name": "chef",
+  "name": "@ynotrusso/chef",
   "version": "0.0.1",
   "description": "Chef JS library for common utilities.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ynotrusso/chef.git"
+    "url": "ynotrusso/chef"
   },
   "keywords": [
     "utility",

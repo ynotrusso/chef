@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/ynotrusso/chef/issues"
   },
-  "homepage": "https://github.com/ynotrusso/chef#readme"
+  "homepage": "https://github.com/ynotrusso/chef#readme",
+  "type": "module"
 }

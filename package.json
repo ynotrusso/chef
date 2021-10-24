@@ -1,6 +1,6 @@
 {
   "name": "@ynotrusso/chef",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chef JS library for common utilities.",
   "main": "index.js",
   "scripts": {

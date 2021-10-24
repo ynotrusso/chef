@@ -1,0 +1,25 @@
+{
+  "name": "chef",
+  "version": "0.0.1",
+  "description": "Chef JS library for common utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynotrusso/chef.git"
+  },
+  "keywords": [
+    "utility",
+    "js",
+    "npm",
+    "library"
+  ],
+  "author": "Tony Russo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynotrusso/chef/issues"
+  },
+  "homepage": "https://github.com/ynotrusso/chef#readme"
+}

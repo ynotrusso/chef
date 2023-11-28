@@ -15,5 +15,10 @@ module.exports = {
       }
     }
     return o;
+  },
+  take: (arr, from, to) => {
+    if (typeof arr !== "object" && !arr.length) {
+      throw "First argument must be an array";
+    }
   }
 };
